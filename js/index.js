@@ -24,7 +24,7 @@ function render(parametr) {
 
 
 </p>
-<div class="collapse${i}" id="collapseExample${i}">
+<div class="collapse${i} collapse" id="collapseExample${i}">
 
 </div>
 
